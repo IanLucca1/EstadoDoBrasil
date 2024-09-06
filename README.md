@@ -2,7 +2,7 @@
 
 **Sua viagem virtual pelos 27 estados brasileiros começa aqui!**
 
-Com essa aplicação, você pode explorar a rica diversidade cultural e geográfica do nosso país. Descubra quais são as praias mais paradisíacas, as cidades históricas mais charmosas e as comidas típicas mais deliciosas de cada estado.
+Com essa aplicação, você pode saber sobre cada estdo.
 
 **Como usar:**
 
