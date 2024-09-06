@@ -2,7 +2,7 @@
 
 **Sua viagem virtual pelos 27 estados brasileiros começa aqui!**
 
-Com essa aplicação, você pode saber sobre cada estdo.
+Com essa aplicação, você pode saber sobre cada estado.
 
 **Como usar:**
 
