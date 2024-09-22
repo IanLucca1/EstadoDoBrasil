@@ -210,14 +210,6 @@ let dados = [
     descricao:
       "Rondônia é um estado na região Norte do Brasil, com grande parte de seu território coberto pela floresta amazônica. É um dos estados mais jovens do Brasil e possui uma economia baseada na agricultura e pecuária.",
     link: "https://pt.wikipedia.org/wiki/Rondônia",
-  },
-  {
-    estado: "Rondônia",
-    imagem:
-      "https://upload.wikimedia.org/wikipedia/commons/f/fa/Bandeira_de_Rond%C3%B4nia.svg", // Bandeira de Rondônia
-    descricao:
-      "Rondônia é um estado na região Norte do Brasil, com grande parte de seu território coberto pela floresta amazônica. É um dos estados mais jovens do Brasil e possui uma economia baseada na agricultura e pecuária.",
-    link: "https://pt.wikipedia.org/wiki/Rondônia",
     tags: "Norte",
   },
   {
